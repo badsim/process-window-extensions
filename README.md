@@ -2,7 +2,7 @@
 A library which adds window's related features to Process class. Basically a set of useful extension methods. 
 
 ### The Idea
-Sometimes we have to do something with our os' windows like arrange, minimize, resize, switch between, force topmost or move them across virtual desktops. And if you want to manipulate them automatically with usage of some programming lanugage you would propably end with Win32 api calls, copying&pasting a lots of fairly low level code to achieve simple thigs. 
+Sometimes we have to do something with our os' windows like arrange, minimize, resize, switch between, force topmost or move them across virtual desktops. And if you want to manipulate them automatically with usage of some programming language you would propably end with Win32 api calls, copying&pasting a lots of fairly low level code to achieve simple thigs. 
 
 I've created this project because one day i decided to automate process of setup my work environment. I noticed that I'm constantly doing the same things when I swich between projects for my clients. In one of them I have 3 separate web-based systems which communicate with each other. To be efficient and don't waste time I have to switch between multiple VSCode and browser instances. Spawning applications and putting it on proper place takes time and can be frustrating, especially when you have to arrange them on 2 displays multiplied by 3 virtual desktops. 
 
