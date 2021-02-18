@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessWindowExtensions", "ProcessWindowExtensions\ProcessWindowExtensions.csproj", "{F134D0ED-1F88-46EF-94AC-5F0DD797197E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessWindowExtensionsTest", "ProcessWindowExtensionsTest\ProcessWindowExtensionsTest.csproj", "{D63C5FAF-4635-43B9-8E15-6025127CD99C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F134D0ED-1F88-46EF-94AC-5F0DD797197E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F134D0ED-1F88-46EF-94AC-5F0DD797197E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F134D0ED-1F88-46EF-94AC-5F0DD797197E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F134D0ED-1F88-46EF-94AC-5F0DD797197E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D63C5FAF-4635-43B9-8E15-6025127CD99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63C5FAF-4635-43B9-8E15-6025127CD99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63C5FAF-4635-43B9-8E15-6025127CD99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63C5FAF-4635-43B9-8E15-6025127CD99C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D122022-8FAF-46BA-9EB4-E341E6963D6E}
+	EndGlobalSection
+EndGlobal
